@@ -19,3 +19,5 @@ elif bim < 32:
     print("肥胖")
 else:
     print("严重肥胖")
+
+
